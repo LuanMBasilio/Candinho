@@ -5,8 +5,8 @@
     "whatsapp": "5511971946016",
     "phone": "11971946016",
     "pixKey": "TELEFONE NUBANK: 11978630396",
-    "logo": "/images/logo.png",
-    "banner": "/images/banner.jpg",
+    "logo": "images/logo.png",
+    "banner": "images/banner.jpg",
     "address": "Avenida Francisco Nobre, 19, Medeiros - Jundiaí",
     "mapsUrl": "https://www.google.com/maps?q=-23.1826908,-46.9856708",
     "deliveryTime": "40-60 min",
@@ -227,7 +227,7 @@
           "description": "Pão, hambúrguer caseiro, presunto, queijo, alface, tomate",
           "price": 2900,
           "oldPrice": null,
-          "image": "/images/a8d05678-0082-4bd4-8a68-393453c82820.webp",
+          "image": "images/a8d05678-0082-4bd4-8a68-393453c82820.webp",
           "complements": [
             {
               "id": "bda9b5c9-f1e9-4c68-a191-18c2db7eee0f",
@@ -541,7 +541,7 @@
           "description": "Pão, hambúrguer caseiro, presunto, queijo, bacon, alface e tomate",
           "price": 3300,
           "oldPrice": null,
-          "image": "/images/936255cf-d560-4427-9f8f-fa4412235606.webp",
+          "image": "images/936255cf-d560-4427-9f8f-fa4412235606.webp",
           "complements": [
             {
               "id": "56d22478-6413-47c3-9d2b-119f0912824e",
@@ -698,7 +698,7 @@
           "description": "Pão, hambúrguer caseiro, presunto, queijo, bacon, calabresa, ovo, alface, tomate",
           "price": 4100,
           "oldPrice": null,
-          "image": "/images/b24634e5-01bf-475a-b94d-ea4a3e512a1f.webp",
+          "image": "images/b24634e5-01bf-475a-b94d-ea4a3e512a1f.webp",
           "complements": [
             {
               "id": "db7f5174-ee14-42e9-8a2a-0d00866287f7",
@@ -1326,7 +1326,7 @@
           "description": "Pão, file de frango, presunto, queijo, cebola frita na chapa, bacon, alface e tomate",
           "price": 3400,
           "oldPrice": null,
-          "image": "/images/9229aa0e-6400-4584-a9ab-1450d8aa4036.webp",
+          "image": "images/9229aa0e-6400-4584-a9ab-1450d8aa4036.webp",
           "complements": [
             {
               "id": "85cea332-ee2d-43fb-acf0-708aa37da5fe",
@@ -1640,7 +1640,7 @@
           "description": "Pão frango desfiado cheddar bacon doritos e queijo",
           "price": 3700,
           "oldPrice": null,
-          "image": "/images/6c1565d2-885e-46a4-b06d-a72c71c9652a.webp",
+          "image": "images/6c1565d2-885e-46a4-b06d-a72c71c9652a.webp",
           "complements": [
             {
               "id": "705b8d7b-b012-4805-bda1-1a4f5d7890c9",
@@ -1797,7 +1797,7 @@
           "description": "Pão, Hamburguer artesanal, Cheddar, Bacon, Queijo, Cebola empanada, Alface e tomate",
           "price": 4700,
           "oldPrice": null,
-          "image": "/images/86029c5a-52aa-4256-9ac3-5dbb63b32265.webp",
+          "image": "images/86029c5a-52aa-4256-9ac3-5dbb63b32265.webp",
           "complements": [
             {
               "id": "1cf0ced0-611f-4376-b7f1-27545a2b7871",
@@ -2117,7 +2117,7 @@
           "description": "Pão, salsicha, purê, vinagrete, batata palha",
           "price": 2000,
           "oldPrice": null,
-          "image": "/images/1386e0ea-9abc-40dc-9936-26bdfeb1929e.webp",
+          "image": "images/1386e0ea-9abc-40dc-9936-26bdfeb1929e.webp",
           "complements": [
             {
               "id": "8eb6152b-52ce-452a-b8f5-e23bfe22812b",
@@ -3122,7 +3122,7 @@
           "description": "",
           "price": 1600,
           "oldPrice": null,
-          "image": "/images/c7496458-d8b1-406a-88d9-4e38b697f229.webp",
+          "image": "images/c7496458-d8b1-406a-88d9-4e38b697f229.webp",
           "complements": []
         },
         {
@@ -3149,7 +3149,7 @@
           "description": "",
           "price": 1600,
           "oldPrice": null,
-          "image": "/images/9265619b-0602-4600-bd25-e3f91b3b524c.webp",
+          "image": "images/9265619b-0602-4600-bd25-e3f91b3b524c.webp",
           "complements": []
         },
         {
@@ -3167,7 +3167,7 @@
           "description": "",
           "price": 1600,
           "oldPrice": null,
-          "image": "/images/c06a7f6e-d9e9-411c-af31-5ccfa5b70ce0.webp",
+          "image": "images/c06a7f6e-d9e9-411c-af31-5ccfa5b70ce0.webp",
           "complements": []
         },
         {
@@ -3203,7 +3203,7 @@
           "description": "",
           "price": 1900,
           "oldPrice": null,
-          "image": "/images/4343e22c-dcc1-4224-a8cf-0a4a0978e3d1.webp",
+          "image": "images/4343e22c-dcc1-4224-a8cf-0a4a0978e3d1.webp",
           "complements": []
         },
         {
@@ -3230,7 +3230,7 @@
           "description": "",
           "price": 1800,
           "oldPrice": null,
-          "image": "/images/bf612ae7-8122-4280-aff0-4d7fa6719761.webp",
+          "image": "images/bf612ae7-8122-4280-aff0-4d7fa6719761.webp",
           "complements": []
         },
         {
@@ -3293,7 +3293,7 @@
           "description": "Carne ovo e azeitonas",
           "price": 2300,
           "oldPrice": null,
-          "image": "/images/42650a59-1e76-46fb-a709-ee4caa08cca8.webp",
+          "image": "images/42650a59-1e76-46fb-a709-ee4caa08cca8.webp",
           "complements": []
         },
         {
@@ -3528,7 +3528,7 @@
           "description": "Baguete - bife de contra filé - purê de batatas - milho - bacon - cebola frita na chapa - presunto - queijo - batata palha - alface e tomate",
           "price": 5000,
           "oldPrice": null,
-          "image": "/images/60c11e40-3c5d-4778-a687-199e987dcafa.webp",
+          "image": "images/60c11e40-3c5d-4778-a687-199e987dcafa.webp",
           "complements": [
             {
               "id": "d186c169-e77e-4e5a-9740-59fda3971d8f",
@@ -3842,7 +3842,7 @@
           "description": "Baguete - costela desfiada - cebola frita na chapa - queijo - alface e tomate",
           "price": 3300,
           "oldPrice": null,
-          "image": "/images/b8f0700b-b8d6-4f14-ab83-214e21b80eae.webp",
+          "image": "images/b8f0700b-b8d6-4f14-ab83-214e21b80eae.webp",
           "complements": [
             {
               "id": "e79b35c7-e460-43bc-b35d-bf8428db50a9",
@@ -4537,7 +4537,7 @@
           "description": "",
           "price": 4200,
           "oldPrice": null,
-          "image": "/images/408c0d33-0221-4016-bbdf-9971642e96a5.webp",
+          "image": "images/408c0d33-0221-4016-bbdf-9971642e96a5.webp",
           "complements": []
         },
         {
@@ -4855,7 +4855,7 @@
           "description": "1 X burguer + 1/2 porção de fritas + 1 Refrigerante lata",
           "price": 4500,
           "oldPrice": null,
-          "image": "/images/168983d0-7d63-465c-a70e-c143ae48ac06.webp",
+          "image": "images/168983d0-7d63-465c-a70e-c143ae48ac06.webp",
           "complements": []
         },
         {

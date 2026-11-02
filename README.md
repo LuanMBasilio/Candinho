@@ -10,6 +10,15 @@ npm run dev      # desenvolvimento
 npm run build    # gera a pasta dist/ para hospedar (Netlify, Vercel, GitHub Pages...)
 ```
 
+## Deploy (GitHub Pages)
+
+O workflow `.github/workflows/deploy.yml` publica o site a cada push na branch `main`:
+https://luanmbasilio.github.io/Candinho/
+
+Configuração única no GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+
+Se o repositório for renomeado, atualize `base` em `vite.config.js` para `/<novo-nome>/`.
+
 ## Onde editar
 
 - **Produtos, preços, adicionais, horários, telefone:** `src/data/menu.json` (preços em centavos: `2500` = R$ 25,00)
