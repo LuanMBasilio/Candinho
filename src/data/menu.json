@@ -1,0 +1,4906 @@
+{
+  "store": {
+    "name": "Candinho Lanches",
+    "description": "O Melhor Lanche da Região!",
+    "whatsapp": "5511971946016",
+    "phone": "11971946016",
+    "pixKey": "TELEFONE NUBANK: 11978630396",
+    "logo": "/images/logo.png",
+    "banner": "/images/banner.jpg",
+    "address": "Avenida Francisco Nobre, 19, Medeiros - Jundiaí",
+    "mapsUrl": "https://www.google.com/maps?q=-23.1826908,-46.9856708",
+    "deliveryTime": "40-60 min",
+    "deliveryFee": {
+      "min": 500,
+      "max": 1100
+    },
+    "rating": {
+      "average": "5.0",
+      "total": "23"
+    },
+    "instagram": "https://www.instagram.com/candinho.lanches/",
+    "facebook": "https://www.facebook.com/Candinho-Lanches-165514794015465/",
+    "schedules": [
+      {
+        "weekDay": 1,
+        "start": "18:00",
+        "end": "22:30"
+      },
+      {
+        "weekDay": 3,
+        "start": "18:00",
+        "end": "22:30"
+      },
+      {
+        "weekDay": 4,
+        "start": "18:00",
+        "end": "22:30"
+      },
+      {
+        "weekDay": 5,
+        "start": "18:00",
+        "end": "22:30"
+      },
+      {
+        "weekDay": 6,
+        "start": "18:00",
+        "end": "22:30"
+      },
+      {
+        "weekDay": 7,
+        "start": "18:00",
+        "end": "22:30"
+      }
+    ],
+    "paymentMethods": [
+      "PIX",
+      "Dinheiro",
+      "Cartão de Crédito",
+      "Cartão de Débito"
+    ]
+  },
+  "categories": [
+    {
+      "id": "hambrgueres",
+      "name": "HAMBÚRGUERES 🍔",
+      "products": [
+        {
+          "id": "275f4082-4d19-4953-bff1-238afad52e85",
+          "name": "X - BURGUER",
+          "description": "Pão, hambúrguer caseiro de 180 gramas, presunto, queijo",
+          "price": 2500,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "57c4d08d-6c24-4a08-b38a-de53699316d2",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "5eb0268e-bd7b-4527-8d30-a8b9de7b5e87",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "d7e6fd15-9214-4704-a5e1-e929bc3d32c2",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "1c1eb4f1-866c-4a6d-a785-ce1527dd7fab",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "9f55ae74-e612-43d7-b8b4-e7194710afaa",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "32ec9b61-be3d-46ac-ae4f-f87439d498aa",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "63214fd3-6377-4a53-9a0c-4828c354e3c0",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "be64bb3f-5a05-4502-8ce7-b06acfe08f17",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "ce5acb59-7dd1-4313-bb55-3b9bb1679665",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "3ffcbedb-2de5-4b69-a35d-aa17540b6de1",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "45a44637-8fd3-4ac3-9689-d56e987aab54",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "9069e2c5-f4f9-49b0-9772-368606da2b62",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "45b74fc1-07cf-4a68-93a3-8affff11dc19",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "adf16a2f-6da9-4802-9df3-7be8d2d30d1c",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "c684d9b3-0203-42b3-929b-d3d8a4c0767b",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "1c7aa591-ea8a-4931-b20b-b23cb3134d78",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "6f29e0ff-3c09-4ade-9ddd-e2a975f0bb22",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "936d5eec-7631-4f57-acca-cb730b37afbe",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "b9ac400a-05da-4108-b0f0-ab729eb9fef4",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "1817592d-f390-4475-a07a-9fe134cca187",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "457d4bb9-c06c-4b30-8885-185f31f3d6f2",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "3d5c5f56-f719-4096-9d44-417f331ebdae",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "6930a103-683e-4a2b-b7e7-1dd46f7e7d4f",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "8188719f-eab2-43e8-89e4-0fd030e9807a",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "a0e5db96-fdad-4449-95fb-0c7f39a18bbf",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "909db3d8-f2a4-43f3-a603-6ee283dc01bc",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "98d33d6d-187c-4c1d-ae65-18b45f80060f",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "a8d05678-0082-4bd4-8a68-393453c82820",
+          "name": "X - SALADA",
+          "description": "Pão, hambúrguer caseiro, presunto, queijo, alface, tomate",
+          "price": 2900,
+          "oldPrice": null,
+          "image": "/images/a8d05678-0082-4bd4-8a68-393453c82820.webp",
+          "complements": [
+            {
+              "id": "bda9b5c9-f1e9-4c68-a191-18c2db7eee0f",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "717cca4a-08f3-4a04-901b-b9368995c1e5",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "f2773107-0268-4cb3-84ba-ca5e2a7614d4",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "8e11308d-53cd-4cbf-8855-b5bda2dcbe46",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "55566bde-c14e-4889-9d52-e412781a8b65",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "7d705a1b-5af4-46ad-be0e-a26989f7b9bd",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "42004cdb-ff58-4736-84b5-2597753256f9",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "4074e45b-2319-4c6a-b53c-40f654afd4b2",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "2b13c6f9-4d38-46b1-aa53-9404c28d1b6b",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "5ca54d3d-d2f3-417a-8826-4fcfcd8caeb3",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "78152689-e508-4eb6-ae6e-a28751211e5d",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "26dd3da6-f20b-46d9-8b78-481c4e9485b4",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "b52438ed-bd53-41fe-8812-53599a3cfa49",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "1aabc7bc-2fe7-4a29-a998-41d779383ef6",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "07a7f94c-3198-42a4-96c1-fe40e32bda69",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "e137fe6f-9169-43e8-bdbc-508d93f214fd",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "5f48995b-af5e-482c-a152-aca2b8657a42",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "2a9121c0-881f-44fe-909e-8678eb016cb0",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "a791d642-5ed0-4b98-a3a4-b43a81817522",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "ff62649f-0baf-4f1c-9e39-a306bf1f481a",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "f067c330-76b8-42c7-bcda-bbec1f84502f",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "501d4832-a6ab-4244-8a62-305e458e80e4",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "bc5765ec-ac67-452b-8cd0-f8da6244b897",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "25a4cd5e-8d26-41f8-9524-93c1e3f21b28",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "3c85f62b-523c-40c7-9275-1d6acaeaaac1",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "a4d3e1af-aa89-4c95-841e-a172bc8050f8",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "bd78c8e3-6401-47d4-b4d8-7827016cb423",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "95ccd763-fee8-4d8b-8329-7cb3d3560bbe",
+          "name": "X - EGG",
+          "description": "Pão, hambúrguer caseiro, presunto, queijo, ovo, alface, tomate",
+          "price": 3100,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "a2a6c1df-82c1-4952-b9ee-d2f3d5ab96aa",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "a3846826-dedc-4c47-8972-d71e225eaab0",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "a2a13212-fe10-47b6-85ac-0ddc9c0c6ea8",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "2195e2eb-6566-414e-9e8a-2c98e687c575",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "2b9ca016-ded9-4536-baff-14e584436001",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "cdfa3f9b-b393-484b-b051-3ddf54272463",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "f43b4583-632c-47a4-9f5b-4313e73c4254",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "ccc72a47-d566-4cc7-9817-d38a55228504",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "efcf5748-7810-40eb-b309-fd2c6d84f743",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "f3d14e17-192a-434e-ae88-641f7d06e408",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "ed7dfc8d-7783-4590-a7d6-70a8712b8152",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "c62ab579-d844-420c-bd60-2961e97b6499",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "8dc023ef-4bad-4a08-a921-95ae691472a8",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "399bb183-cbd6-4e59-a916-f314e4f30ef0",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "4e48426f-aeb7-4f5d-8b71-3fb8e560cf0e",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "590060f8-240b-4258-904b-c4a0e35bf50b",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "8916437f-1d72-4383-a8f8-288c2cd14b02",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "077aa9f7-c5fc-41ea-a0db-cdf9a55d705a",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "cc4b77da-3714-4e6c-a4fe-204c94bee6c9",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "77d54e40-d1dc-4424-80db-f64e4e73cb82",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "722ad089-453c-4478-9944-9eaaf3a70cbb",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "18757e4e-2b4d-4528-a6a1-60dda0f69e9d",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "1a6c9206-067a-46f6-b658-d3de3893a536",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "69dffe69-f70e-4047-8e2a-fbdb11864ccf",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "7c4a1060-e941-4aca-8f0a-7c333938062f",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "03f0489e-8cac-4f4b-a6b2-c128f5cb18bc",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "90eb6abf-7c1f-4107-96ca-5ecaa69e503c",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "936255cf-d560-4427-9f8f-fa4412235606",
+          "name": "X - BACON",
+          "description": "Pão, hambúrguer caseiro, presunto, queijo, bacon, alface e tomate",
+          "price": 3300,
+          "oldPrice": null,
+          "image": "/images/936255cf-d560-4427-9f8f-fa4412235606.webp",
+          "complements": [
+            {
+              "id": "56d22478-6413-47c3-9d2b-119f0912824e",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "91983794-c904-4a60-949e-e13aa65963a1",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "b9d3f635-e6bb-440c-b815-ba7708404ee3",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "622abc50-aca0-425c-bbaa-123184684248",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "9f9317d6-556c-4dd3-9d81-2bcbafb81ef0",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "9cbd1e95-4eb8-4923-b348-b82d7564d12b",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "e047fe4e-ce50-4aaa-b268-727f51247640",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "4a34e8f4-e2db-4851-8f9d-d718c6a1576a",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "c3a52300-ddf1-447f-89dc-d45f8f1bbb2f",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "5106f84a-1b43-4339-b1f5-58cf252bd7ee",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "a4e66b05-be34-4094-accc-22624831297f",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "1837b50b-2428-4cd5-bec0-10c90d2b7af7",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "029835c7-3cbc-4947-b1e4-19efb10f94c5",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "05a30ea0-2423-47e8-9c79-cf5829ed539c",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "82a8b8d0-b5d7-4c31-ae73-43802c6d7ab2",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "2f9a0f3e-c032-4850-87a4-8306aaa7afd7",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "b683e660-9766-438b-a0b3-954fc78e0908",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "78c36497-95c5-4d2b-84fc-cf5a7b791f8b",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "92c9053e-b3da-453d-ac8f-bd6d1cd2e60a",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "de4a5f3e-20c5-4a02-ae85-592c75bfb2de",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "6a5e3876-b58c-4ed1-95e7-8b6ae030321d",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "fee3f8c5-ecdb-467c-9810-101119000d90",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "e48c505d-8599-47ec-839f-5c62878d4975",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "0d075c8f-3367-43af-adb5-b68928c05028",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "aa64156a-d972-472e-83b5-e91c0b755b3f",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "130a0313-8b08-4473-99a5-4b99627fcbb8",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "f4887f97-c5cc-40da-88c3-9f7e5a125ed5",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b24634e5-01bf-475a-b94d-ea4a3e512a1f",
+          "name": "X - TUDO",
+          "description": "Pão, hambúrguer caseiro, presunto, queijo, bacon, calabresa, ovo, alface, tomate",
+          "price": 4100,
+          "oldPrice": null,
+          "image": "/images/b24634e5-01bf-475a-b94d-ea4a3e512a1f.webp",
+          "complements": [
+            {
+              "id": "db7f5174-ee14-42e9-8a2a-0d00866287f7",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "c014cef4-0b69-422a-8dbf-8481359fc5f7",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "e43391eb-65e0-411e-abb7-cce82e430f8b",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "37c096b6-3886-44ca-befe-4d904a40201f",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "caff1300-5b0a-4ed9-b6c7-2f80bc7049e8",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "94d8cc2c-0a15-43ca-a15e-f1a7e521fdc6",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "9e8ecce3-8304-41d4-bf14-e108e05a65de",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "5b6e0a51-b977-44c1-aca0-5b594a7f0f18",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "b81e07a4-7246-49e9-a955-9ca810a7e09b",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "6c230aed-8d8c-4d7d-9f7d-6c1b3c529d47",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "1608e19a-ba25-4a12-b9e0-42f08c63dd9d",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "4c7505bb-8a98-477b-a866-5620321590c1",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "3810ffe8-9919-402d-a2ae-643c89348228",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "a16b2674-5cdb-4c93-ace6-e23ecacafe32",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "831ca834-2f16-46db-aba3-4d60db0cfe18",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "e25be7dd-4338-42f7-9652-71e2f6d3b24f",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "d36c5ac2-a910-421e-8e3c-88242c1a11f4",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "f7c066ba-699e-4c7f-839a-fbc304d3a524",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "3fbb093b-1169-485f-820e-139f57346387",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "0625e1d2-bb43-42d2-8504-89fa1122819f",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "5ac3bc7b-d63f-401a-870c-278cde110f1d",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "8973051a-de03-4c68-9cc5-498b29e7d076",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "e18769fb-a1a8-439c-9f9a-77a5f5e2d952",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "11fef2c7-ef49-4fdd-a8f5-1f330c5457f6",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "815ad1fb-d836-4ff8-8987-15bf17738d42",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "35c386ea-4656-47fe-b17b-dd931881f76b",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "1956f94d-a25c-45bf-b078-dfaf2f138087",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c7e2e33d-c9ca-402b-9f87-a22f986eeb12",
+          "name": "X - CALABRESA",
+          "description": "Pão, hambúrguer caseiro, calabresa, presunto, queijo, alface e tomate",
+          "price": 3200,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "0e1e2fc8-f176-4c60-9a01-57fae99ff28b",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "03bf4b3b-adb5-44e1-a907-55cd74abbd4f",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "6442acff-fa19-44d3-8528-b6620648b799",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "14f1d559-cd16-4b2b-aa32-692da888d648",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "379b023c-8b74-4a28-a19b-0b4aa4b4da1e",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "20226f1c-e9ea-45ce-8247-f6b81a2a5337",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "fca2c251-23b3-4570-99ed-629ec7b75d52",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "67e438ac-1fde-4f01-9c58-5e7c72b92088",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "fc66cade-25bc-4239-a984-790a9cfad9cd",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "aefe8fdf-795e-416a-8fca-591451ef9a73",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "629cc314-b69b-49a2-b655-99442c16e3ff",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "c2e465b6-6a93-47b1-82cf-067c57a0e8d3",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "7e835e09-4af5-46c1-bd4e-4b29d09b35ca",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "42d56824-6f37-48a7-87ef-7ed97eae9321",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "eef57370-2d1a-4045-82dd-e742dc5f5fff",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "3b969085-3c90-459b-a27b-00ade4fa53c4",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "355339b1-aefd-480e-bf39-ce134638911d",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "e0e19e68-3210-4b97-9464-75e487d464ec",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "2b49ada4-6e33-4a6d-8114-a429607e77bf",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "6c32405e-9fad-468e-a368-09ff301866a1",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "f819767d-4b0a-4f00-86d5-4011fa045bea",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "c80aac0c-8da1-48a0-851d-efe931f5bc8b",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "0e295fdd-6968-4841-81ef-0a1f62ec38f0",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "79d560c8-dbf2-436a-9b06-3c585c0ef0d8",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "6b0256fe-5353-4cae-9ff5-1799f9f9aa29",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "49396c4a-3077-4ab8-88ae-f38612abff0c",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "4c163bc3-caf6-4482-b49d-a1d9044cd8ae",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0277e96e-e40e-4ec2-94dc-db63b04c6953",
+          "name": "CARIOCA",
+          "description": "Pão, hambúrguer caseiro, purê de batata, batata palha, milho verde, file de frango, presunto, queijo, alface e tomate",
+          "price": 4700,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "b046c176-94d1-437a-8f85-d6ace4bd9ece",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "8938179c-c526-4004-884a-3fd97fa505f1",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "32a78b89-81cc-438f-8e5c-521b91030136",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "80584daf-4708-4d83-b835-618949bef0f7",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "8eee592c-0d9f-45d3-b4c8-da4478295bf6",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "e30f88df-5ac9-4e38-8be7-96bba53b65bf",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "74d4d191-a2fa-4b8f-9795-a382c45cbbd8",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "673122bf-88f5-4e11-ae50-9ea5181b15d7",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "1999d5d3-55f4-4822-afa6-c7f3bbfc7fc1",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "3b7767ad-f09a-4a9c-8a74-68e07eb9ff23",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "9be12890-b9ac-420d-b897-7c205be173b5",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "989a642e-631f-46c3-ac78-0e764073f17a",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "2d219c8b-8668-41af-94cc-6b18f3efbae1",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "ae13e85b-fd8e-4a44-ac21-6f804f1c2a54",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "e3d67b5f-cd57-4a56-862b-16692dad1e74",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "6a449977-8bd1-4385-be16-ce1d6326103f",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "aacdcfe4-6330-488f-96b3-6a360b565e32",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "d1b76d53-2060-4498-b087-50d88b158c3c",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "da37b8b3-38d3-44d1-916f-85f90c246843",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "4fc09e67-ae73-41bf-b073-46db5ed03517",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "175e531f-45ae-473b-a7e7-a94c9f1acf6e",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "0ab2e47d-5b5c-4523-b7d4-29703204e7ec",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "4a441e10-9fd7-4b8e-a930-6467e2dcff8a",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "e5cb3346-b517-4b13-9816-f35608ea4627",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "8e74a26e-4ee5-4496-9964-f53df8a13de8",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "3480884e-e2eb-44b7-8e42-dd0a80b09aa8",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "b92c92b9-2ff7-467f-abab-9dde5eaba6b3",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "793f3900-5e0e-4e03-8ea3-b559b19792b0",
+          "name": "X - MODA DO CHEFF",
+          "description": "Pão, hambúrguer caseiro, purê de batata, batata palha, bacon, calabresa, ovo, presunto, queijo e azeitona",
+          "price": 4700,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "6911727c-6797-4ae3-9abc-88dd118f9812",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "ea4c1c74-4439-4f63-b523-19650564cbd2",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "7882046e-919c-4509-9567-d865e9616ca0",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "3be1b214-8d33-4ce0-af1e-306fe90ea59f",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "28f0c16e-2989-47d4-86d3-15fd6d0d0eb2",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "b467d6cb-4c2b-4fc8-8513-956ef842fafa",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "ce5a67b3-f099-437d-9c8b-fe837e5a8fd4",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "0692178c-0021-42dc-bcb6-441ea5c2e641",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "d422f30d-c232-4332-b754-f5f5e7eb8fae",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "36506a41-13b6-4462-8949-19236f81efe7",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "b573cb1e-5c6a-4662-898a-4272dc71adba",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "f452c6dc-611c-4930-b4aa-30b97e2f8b84",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "6302e5b9-bf9f-457a-9102-89dcf4a50536",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "1b518d36-6998-4061-8960-095fa04078d9",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "a9c0ffd1-fada-45ed-a51f-faec89fb8adb",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "10117bb0-0278-4a5f-9eba-4921f8500120",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "efea4e60-5de0-4c30-8b35-568ede89a4a0",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "7e244fd7-ef24-4631-850c-6efea7744fbd",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "07b42844-b532-473b-86f5-b7b293541324",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "1275eed3-60eb-40b5-96f8-01cabde1924d",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "90e7befd-1425-49d1-b41e-59adc5cdff55",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "54aad1e6-4cba-4f09-acb0-08f08669871a",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "05e9e58a-e808-407c-808f-acb1c26761e1",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "5444ceee-2955-4269-a4a2-d95ce9f73572",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "c64a1a4b-8e28-46fe-b358-0e8c679fd821",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "518c3471-77cf-4745-b7c8-26b921e3135b",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "7d99bea9-b3f3-4e9a-8f61-f89a258aa09a",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9229aa0e-6400-4584-a9ab-1450d8aa4036",
+          "name": "FRANGOLINO",
+          "description": "Pão, file de frango, presunto, queijo, cebola frita na chapa, bacon, alface e tomate",
+          "price": 3400,
+          "oldPrice": null,
+          "image": "/images/9229aa0e-6400-4584-a9ab-1450d8aa4036.webp",
+          "complements": [
+            {
+              "id": "85cea332-ee2d-43fb-acf0-708aa37da5fe",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "811611b9-632a-4c84-b7a4-36edfc4174d9",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "503c481b-a005-4c48-b646-0f82c55279cf",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "e02b521f-d71b-4bab-a6c5-6e680a761f99",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "42518c4d-c9fa-462e-938c-afa5931c5ce4",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "41dbd5e9-d442-4523-8271-c49745ed8943",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "8965d083-87b9-49bd-9348-25b4507f6b0f",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "df2d5cf7-4125-4c12-ae6d-4385d8bd4c10",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "08b1150e-b059-405d-833e-b33973009c27",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "07a37cce-f2ed-4ea6-a0d6-2cac8707b476",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "285c966b-d0a5-4ebf-9cc9-40784f1004f5",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "af810040-7d78-4369-bd09-9d377aff31cd",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "f863ce6c-ec26-4d2b-bcd7-ae540fd655a1",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "f42bd2a2-502d-4f16-9c1b-850561361e34",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "a029a590-9179-4824-86e6-be9bd834a65c",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "2ab24992-a32e-41e4-aae1-b93d276f19a3",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "503a7239-2a6b-4241-8136-0a82ab200704",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "2a44a5be-896d-4abf-bd9b-ca6391115b7d",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "31c9cc89-c564-402a-92dd-baa5b1cb7ccc",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "894e7ad0-498a-4ad9-9b4b-fa8f654ed936",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "045b8492-7483-4f16-979c-df89f375daf7",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "38c967f6-78eb-498a-bc41-01a7be123dd2",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "bef9d92b-2fff-493a-bb3d-afd63bc39e14",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "89229e54-a034-4b4f-8431-c14ef43d7ba8",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "2f9e1057-e276-4483-8f1d-468f249444f2",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "6d818deb-205f-49c6-8819-5c3a30495b6b",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "f103a177-1117-498e-91f3-95874272c4ff",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ab1f9290-bcc7-4f28-b51c-db71dd5c91bc",
+          "name": "VEGETARIANO",
+          "description": "Pão, Purê, Batata Palha, milho, queijo, ovo, azeitonas, alface e tomate.",
+          "price": 2700,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "528d4e17-83e0-4ba0-8943-1a8d0570df4a",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "5f0c78e6-a62f-4119-9557-d5a6d7c6d083",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "d962f989-55f8-4656-941f-9989791ef1a9",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "1c987b25-b55f-4fab-8849-ec4ff982ad8b",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "05171dd0-6129-4e10-b7cb-2170e4618129",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "40fd53ad-9649-4900-8bbc-9ea677c1ee71",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "ff157f74-5715-4e77-9b65-5569cb7c7a7f",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "dde80479-56ae-44fb-93cb-30ac202c6805",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "634d5098-10ad-4dad-8f56-252526112294",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "f7eb2323-154a-40a0-98c1-aa7c2e3af2a6",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "90c95c5c-a1d6-4cef-b320-6d8c04eec34f",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "f45f93f3-580a-4422-b5f1-0365615112f8",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "96996264-9f58-46a9-8e58-e282f379869a",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "8189eeaa-6f08-45e2-9c26-7abca0caf6bb",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "f984c2db-3ee7-4342-8ce5-e8ff57e8d5b4",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "7abb4bc9-ce53-4809-9ac2-3c75f9bb8af3",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "6df77fa2-142b-4e50-88c3-ee2a11b0e471",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "c837b276-2b3a-4b91-a649-a1429d5769fa",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "c38c92c8-ea31-4016-86b8-bf6b6b0d226a",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "8dbaa640-730f-47dc-bb00-bd4950ab9dd0",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "dcd8000f-2829-428a-903e-593353f9e16c",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "e727ac57-9461-4f86-bfc2-f7fdc46eb4af",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "aa1c94ed-9527-450f-9afd-3896f79b2dcb",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "97a859a1-18c6-47bc-9179-68dcb376897f",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "c4659883-ba44-46ae-8afd-e1116c30bf6d",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "3b8644d2-cc8b-482c-a442-ba6a29f4c80f",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "6b1e92f2-cdff-4652-85c0-054b2d53fac8",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6c1565d2-885e-46a4-b06d-a72c71c9652a",
+          "name": "X - DORITOS",
+          "description": "Pão frango desfiado cheddar bacon doritos e queijo",
+          "price": 3700,
+          "oldPrice": null,
+          "image": "/images/6c1565d2-885e-46a4-b06d-a72c71c9652a.webp",
+          "complements": [
+            {
+              "id": "705b8d7b-b012-4805-bda1-1a4f5d7890c9",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "6f27fd09-458d-4fe8-a817-42a3813d6aae",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "79140ba8-4161-4eb8-9d48-497f9255d2a0",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "156b59f0-48a2-4bf4-bbaa-42c4febe37e0",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "673720f6-8cc3-4187-9908-170a8d86e858",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "063b79db-10f3-4f80-b464-1be262fec534",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "88a7a67f-9497-42b6-84c9-1914788a59eb",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "a5b34e67-b2fc-4c4b-993a-06387ea0d2a3",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "f8b4c8a2-e1ad-435e-87a9-232c0cc05206",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "ed90944f-14bf-422e-b750-82f981a34fec",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "02e24526-b7b5-4a00-8238-add1af7b21e2",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "c8c70dd8-b0ec-4eb0-b233-5ce44f2a0113",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "c0753da0-e52b-4eb5-8910-eb4a6d1bcf9a",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "581d1603-8c9e-42ed-9a0b-81a1ebc067ea",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "f1bbabef-b517-4efb-801e-71f2d70d57a0",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "e8d2cc60-db4b-4919-8510-628152627451",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "b555e31b-4521-4719-a68a-ba088195dddf",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "f71c6ab3-17fc-4ec7-af12-5c418b535e20",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "b8dba41f-4af3-490b-8f07-211ccad9888a",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "75202085-bf76-4917-a6dc-09bbc5cc0a8e",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "66119d30-8e68-4c10-b3d6-d914f66870d7",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "f70cd691-1ac8-48c2-bdc1-ea65598bcae1",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "7bebcac6-06f7-4d7e-bdeb-301428cb93f1",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "9c2c8435-86aa-455c-abef-0ff67a98f157",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "93ffd327-09ef-45d0-96c1-6f45b1b2ff90",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "aca393ae-3f20-4ce2-be6b-293ff3b70266",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "b42b4f59-c0ec-4c3f-9a1a-7c8b7f30b36f",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "86029c5a-52aa-4256-9ac3-5dbb63b32265",
+          "name": "CANDIN BACON",
+          "description": "Pão, Hamburguer artesanal, Cheddar, Bacon, Queijo, Cebola empanada, Alface e tomate",
+          "price": 4700,
+          "oldPrice": null,
+          "image": "/images/86029c5a-52aa-4256-9ac3-5dbb63b32265.webp",
+          "complements": [
+            {
+              "id": "1cf0ced0-611f-4376-b7f1-27545a2b7871",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "92b9fb47-83fd-4b50-8835-2cd08a036dee",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "6482558e-2697-4098-aee1-3d4c91bb0095",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "200b02fb-9497-4ce8-91dd-9061d9141b5d",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "efd2ec6f-30d3-4f94-84c5-77e406d5fa1a",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "376a6199-76e2-4421-a41c-c0cac4cd5899",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "31b41b1c-740d-4fd0-b126-94b32a68bc37",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "6d6d9962-6a52-4c5a-949d-5398c3583508",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "49e592e8-359f-4028-be38-133ed7944b60",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "d29c606e-b3b6-4d21-8bc9-4b221c52899a",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "ba47f74b-7823-4cc9-b717-cd0975c05788",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "4e9f4ff4-626b-4e1f-9ce1-cd89fb9a2199",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "e3422c90-1457-4e8b-abe4-21aacd702aa7",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "3af3a95c-a36b-413a-99eb-3e7d9b87d3f4",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "586c4dd0-3649-4aca-b7b4-7fcbe3708f51",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "a8d95ae7-2ba8-4a78-93e9-279422371d3a",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "b245f330-3fd2-4348-b42b-91183f29ac44",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "70420c35-f3e7-4107-99c5-404ccee57acd",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "adab7d29-0dac-40c7-a127-7d01c4163ca0",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "a83ae841-3c93-4ec7-bfc2-4c62717a597f",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "feddc6e2-c5ca-4040-ad0a-17abf1079f6b",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "e0275d48-dbf5-48b2-83b4-c3d982c38314",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "3a46d3de-b9ee-4878-81f6-15750fd0bf94",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "99497a96-e7e0-4f7d-9804-42cbdfb8e070",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "5646f471-9728-4e79-9f42-8cbe3c9cefc2",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "d35189e7-0aa7-4bde-9520-397e8cdccd96",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "5817fd09-0665-4e9e-ac2e-bde3cdc4845c",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "f7d18a58-6c6b-4b7f-99e8-ff521d7ac8b7",
+          "name": "X - CAIPIRA",
+          "description": "Pão, Hamburguer, Cheddar, queijo e cebola Crispy",
+          "price": 3100,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "29973e9c-f286-4290-b6ff-9634f28a7ccb",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "0fe645e5-2faf-48e1-bd90-d38934c23ff1",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "3c5849fd-2267-4a13-a0d1-e6ebc74d6823",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "40e44b43-c7da-42bc-9c2e-87020cf42308",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "0354e94c-3bfb-498d-8865-a7a1e7cc154c",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "0bd8cc84-6840-4ed2-9fe3-88482f11ca32",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "42c1c02f-155a-49de-b286-5140636bd89b",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "18f4bf83-0fe2-459f-85ff-a14ca6619b7c",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "6fc1c199-2d0d-403d-93d7-0d505cdf2926",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "a645099a-e76a-4916-9221-1590b7bcf985",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "79a26d5e-7b7f-4d0e-ba95-e826a2c61a4d",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "9f6a2a01-865f-4894-8669-83ff281c0834",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "1cb43a79-82c2-4c13-b96c-31c82c17f75b",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "2a5050d7-bb7c-4351-afcc-dd0fd4e1d658",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "daebfd6a-4c35-442a-b929-0f1297efbcb4",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "c03aea7f-60b5-4829-93bf-409d378a90cb",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "fa32032f-c658-4bf6-86e1-079ba1842c90",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "f3804a51-a9f4-4f61-9c71-77708c593ef7",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "1161a7af-34de-455b-9780-58e790c2ee4d",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "8274f497-9d1c-4bc7-84b4-6c2bba39acea",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "33033717-6085-4b76-9c25-8e0f02c6506a",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "badab2a2-08eb-4202-9e8d-cc210256cd87",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "b57c317a-d84a-49e7-9240-b0f99aafd612",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "07804554-7ef6-42d9-8fca-de5f1e01a74e",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "4fc738b9-625f-4387-b916-3eba391081ba",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "a5acee3f-f2f5-4a97-a021-c0d3018d4f98",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "6d73167a-0efd-40cf-80d1-7072a3c49351",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hot-dog",
+      "name": "HOT DOG 🌭",
+      "products": [
+        {
+          "id": "1386e0ea-9abc-40dc-9936-26bdfeb1929e",
+          "name": "DOG 1",
+          "description": "Pão, salsicha, purê, vinagrete, batata palha",
+          "price": 2000,
+          "oldPrice": null,
+          "image": "/images/1386e0ea-9abc-40dc-9936-26bdfeb1929e.webp",
+          "complements": [
+            {
+              "id": "8eb6152b-52ce-452a-b8f5-e23bfe22812b",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "9e06a5be-a13a-4748-9534-788b96258560",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "60b82f36-be80-49be-9918-d283c16631ff",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "a24a252f-feb0-4391-a576-6f4573b52fe7",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "8fad79b1-88c7-4889-b7aa-72bb1ce181c2",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "926f4e5f-cb6b-45d3-80c4-36c6b7c133b7",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "6de2d316-0d49-4d46-afb8-59783dd61579",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "fccfbd63-d18e-44c4-bf21-0652e0c1b9cb",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "360e2087-c3bc-492b-acb4-b1ea1c37b620",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "6d74ce20-31de-404d-be7d-c222961683c7",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "ef127859-c4ec-4fd3-9266-eb4c0b2c64b2",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "a2e8b2dc-9ab0-4df8-bd13-acd2612b6951",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "5d528427-0d71-465b-8e43-6eb32be12042",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "b909eabc-8a75-434b-9c31-fac08977ed89",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "fd27fa65-55b6-45fe-bce6-9eecd61b1704",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "abb0d0f4-75bf-4d8f-990e-031a5604950f",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "2e0ba6dc-bfba-4e32-a0ff-1cfbc638b178",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "f76b1ffb-9797-4805-a326-062acd5d56fb",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "e285a7bf-f0e2-46fe-abf5-3c6d86e70800",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "65754a68-b92e-48c4-a54c-260be71c4e1b",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "458af181-6091-4e5c-9029-2189a1601c3b",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "3e720f6e-344c-4f49-8465-a8cd84cbbd2c",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "82bae92d-f74a-4fc4-a45e-26e29d186bac",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "a6f165ab-260c-4c1c-bc02-183fb0123644",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "98d7bad2-5966-4be1-9215-9bc1d42eeb75",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "4ec4be6e-0351-4155-8e49-c85d9b78f242",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "62f62d17-16dd-4fbb-9025-f243705f7fcc",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1be17e8c-0136-40fc-b127-de5ad1df9924",
+          "name": "DOG 2",
+          "description": "Pão, salsicha, purê, vinagrete, milho, bacon, batata palha",
+          "price": 2400,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "0d746ea2-35d6-4f53-af34-f057bcbbf46a",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "952a7a08-b727-4eaa-a9a6-bc84a875fd4a",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "3c464ec4-dea8-48d1-a779-ee050abcdcd3",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "071c2498-9891-4376-aaa8-446f68353116",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "4adff5b3-ac5c-4c9a-af6b-ca169788f6ef",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "0efae833-a730-4dd9-ba40-bcf8de14c591",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "03c0c759-7114-4216-8da4-2404efa10886",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "64755d72-8d06-4d60-8578-e957ba767f23",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "d64229f8-43fe-457e-a3e5-b4fb0778c2b7",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "10a9bdca-399d-4ce1-bc75-ce35adff8095",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "675639d4-028a-440d-879a-34be7d3f5a3b",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "63c81343-e6ef-4e6b-904e-2b294425546d",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "f9465a2f-a9ec-4fb1-9824-b577d65a0aeb",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "4e20d5ff-6777-415f-b0e2-42237a35d45d",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "25bcac32-636b-4b9f-9088-a80a6fea4d3f",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "defa24e9-977a-4a33-957a-4f36cafffe4a",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "c982a210-6ebe-4a0e-96a9-96996a5cd6ce",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "981c4d58-b1c1-4d67-bdc9-b244fa437d37",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "c1121b80-08ae-4798-b8f2-8d95e35d223b",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "2e817cd6-26c8-4106-8c75-bd36a7584cbb",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "5699f2f7-51df-44b7-a196-61f804a04af1",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "8ccad94f-53c0-40af-b6d9-cd3befad2ffd",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "ba70ce04-0411-4cc8-8734-bdce260ceb96",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "c033881c-a3a6-48c5-aeb0-4aece61c1741",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "bbbd0bd5-d1ca-4b99-b055-9723b579d829",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "bd4abc8e-04c8-423b-b791-bfda7a657bad",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "03f9781b-6511-4817-aeed-f04e0022334b",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e7918508-a3e0-44d0-a408-8f01ef655b3b",
+          "name": "DOG 3",
+          "description": "Pão, salsicha, purê, milho, bacon, calabresa, catupiry, cheddar, batata palha, azeitona",
+          "price": 3000,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "1c2ac57a-44d7-4df6-8c9e-de426acfa3bc",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "9dd36281-8a61-4c64-91b8-320a41358a8a",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "ffc8a5f5-4dd7-4c85-804b-6bfec72955c1",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "848a541a-382a-4e9b-9438-ba5768d9402e",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "523e08e2-fad4-4cb0-8140-a72cf3b74a6f",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "fe8df059-e064-4fd5-b396-f248a1e8201d",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "cf47bd10-4d96-4c14-8763-fecce7a56f8e",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "d549e8c3-1a8c-49a8-a3f8-55ac3402ef8c",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "4e2f8afa-4671-4a74-a5ca-770abf6b8725",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "96c59624-186d-4aec-bab4-fa78e39ee1b3",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "405d8ecc-f779-4422-8aa5-73d4ba72d47d",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "dd1de08a-4a47-4ce6-8c01-13999ae73f30",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "302a5869-8f6d-44b0-8223-5c268e409e5f",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "92a9e93b-bede-4324-afa7-e7f494d6d9a5",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "7a51e394-4906-482b-a783-87688dab5578",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "5a1cec7a-39db-44af-b64d-a962c5a108d7",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "eb7d338a-af31-4dc0-becd-eb98b886e467",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "6e7d2f37-2ad2-4879-99b9-7dcfc79dd249",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "3af8073b-7847-4685-93b9-afb1380f8e65",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "e0afa637-18dd-41a2-9426-9e565b8c67c7",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "99d01591-19a2-4111-9d08-200f34120fd3",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "994c2e5d-4af1-4f56-a4b5-f09207138e45",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "3925da8e-cc9c-46d9-9e3e-659bc71a6c21",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "996435c6-0e17-4df5-831e-a9e5a425e11b",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "f5595020-d255-4593-a34b-37d8cde3f0a1",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "ad6e8b11-ae9c-4376-8370-b236b3924acd",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "31e46880-4aae-4bca-bd56-ab7fea49c438",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2709e643-421e-4f69-8ce3-253b59c56f8f",
+          "name": "FRANGO DOG SIMPLES",
+          "description": "Pão de file de frango, purê de batata, batata palha, vinagrete",
+          "price": 2700,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "988b7750-1c89-4533-b064-004f7c147d28",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "e810a3d6-9a96-40f8-9572-c9258b3f75a6",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "cafcef6a-4cd3-4519-b41e-2497715cff1c",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "6b2e5355-46e5-45b3-bead-da7231f0b40c",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "388d2563-41df-437e-b5c3-bab348d6c2c3",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "b08abe92-712a-40fb-9c9f-f74ae2e10203",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "afaa3bbe-6cea-4170-bab0-5bf7931eb9a2",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "16095431-ef4c-4c74-9695-9644ffd97646",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "ba1cea39-9757-4f85-a09d-b25a712218f7",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "fc96de90-1de4-4d51-9882-3111c14bed84",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "f5977079-89da-4034-ada0-e48ca246cae0",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "09430a5b-2bf2-49c3-98c5-1e1b75056c8e",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "a0353f77-c2a0-493e-9662-a63e0dd29a72",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "f2b84583-ce1f-4a0a-a428-5540368b1c3a",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "0ea286b0-c434-4a0d-a883-b0f1e7560a0d",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "6d79a803-39b4-4aed-ae4d-1f0908e57073",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "978c4ed0-5250-48f6-a1ac-156f3805b00d",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "7f9d51d0-d6b2-4fe7-8f7a-979c3b76eedb",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "35e31350-bd66-42fd-be81-3c8131c308d3",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "cb7d0ad2-3915-44e1-8183-135af1925fb9",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "39a0044b-e0a3-4bcf-bdf7-a5707417a11d",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "de1d7397-9d27-44c2-80d0-84c5d8bfa141",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "efdd0a47-618d-431d-b138-d304e1641f90",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "d430c296-decd-4c36-96d9-9573dcc7d5dc",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "65191403-92e5-467a-bc12-224f8e6fafe3",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "20c0001f-c1f5-4023-bb1e-4f718efdba67",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "9ffbce57-62f2-4569-a678-5cbdc1b9ee02",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c042426f-f5bf-4075-b051-f04d402803cf",
+          "name": "FRANGO DOG ESPECIAL",
+          "description": "Pão, file de frango, purê de batata, batata palha, milho, bacon  e azeitona",
+          "price": 3000,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "0adb3028-ec4c-48a2-bac2-28594c7782fe",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "39ea0607-169c-4f74-87b2-d584e8edb6ed",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "b550416d-594e-4690-badf-47805b41aa0e",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "333f71e2-d03e-4059-9f55-cd1ccd2735c1",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "3c1cb9c1-613a-4238-bd88-965c4af3ba29",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "753c38a4-f7c7-48c1-bb9b-4cea545bccd1",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "dd6140a2-6ed0-4372-b496-db2cf99637bc",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "1bd6dbd0-df69-4f32-9822-ab389f8bd9e2",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "947f9f58-f0d3-4805-ba14-287c507ddddb",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "653847db-428d-456c-8b22-2f1878f275a5",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "833941bd-f4d3-4816-bf4f-4b459329b12e",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "3a7b5f8c-99b5-4f36-950d-b643b0ad449f",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "5f1d65d7-45fc-4762-9bc0-d238f209ecfb",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "f40a4f98-1f48-4573-80a7-4a5c7a208f64",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "ac10d9ad-6b40-406d-b514-cc82a331b861",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "e8eb1c69-668e-4953-bf2c-d7e7edd1ec5f",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "588622f1-7e4f-4cf5-8957-d280fcdbf602",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "edeb675f-fc85-451b-b317-c4cebb311d1d",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "9b80c2d8-94c6-4969-a307-78541695a7d5",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "aaead96e-5c9e-40f9-89e1-69e3ce66d7a9",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "60d02ddb-4640-4153-8caf-2331ee04c643",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "1fa9b59c-0def-41e4-8745-8fb7fb85a368",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "fb5f9b2d-1e4d-491e-8387-4774f9cc2085",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "5f545c65-9847-448d-80b5-e527b7e5e051",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "158f347b-4d8a-48ea-8587-65acdda81ca8",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "098b9952-fe03-4cef-ab6a-b3171ac2fedc",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "460a5edc-afb1-49ae-8bc7-ab30bec5c348",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "756c9ebf-fa61-4ea4-82b5-de4540542ed5",
+          "name": "HOT DOG VEGETARIANO (SEM SALSICHA)",
+          "description": "Pão, purê de batata, queijo, ovo, batata palha e vinagrete",
+          "price": 2500,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "aceea685-ce74-4d21-bb14-29b135f8450a",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "0a78d1e0-4ee9-43c7-bb61-8cf4fa7811ee",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "30a8092e-d97e-49cd-a38d-70177296020e",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "c0d67b49-f55b-4673-8f76-b6753550b424",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "e3b6d059-c881-4037-b08f-749e2f417acf",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "8914fa78-c088-4558-8b07-4a6b21067dda",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "4535e0bf-9149-4467-9273-cec46e7f190b",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "3ddf57fc-e1d0-423d-8a9d-e9032c713b7c",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "c5106aad-b3f7-41c6-9124-47733c00091d",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "fcb27518-cd58-45db-97a0-baadd38859b4",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "183cf809-fc58-4ebc-aa81-424e52d36f0a",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "4221b721-06ad-4b3a-aef7-1aa3ef3abea1",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "d8831db0-9726-48a4-b543-95a7c59f6e92",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "bce2b238-b7b4-4dd4-becb-51eefa3f62c7",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "40c9deb6-3ae8-4162-9403-98acdaf4de4b",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "de530de3-4f9b-4053-bb8d-a01e6b620bf7",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "f6f88cc6-5e2d-41ed-89c4-97585f3dbda6",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "2100336f-ad5d-4cc0-9026-ffb916cc168b",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "25af778d-5a98-4631-ae92-e65cef68d14f",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "938b256b-139b-422d-b3b6-b1300ffc2a91",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "fd6e8d30-349b-443b-9037-88eeff990c18",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "a8ef1d17-ea24-4c29-a6ad-94b79ad476b3",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "25896dc4-baab-4a6c-849c-f955618415f1",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "b8be2e75-b7b4-4932-a850-dcc90c8a3f6c",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "929cae0e-0f68-43a5-b569-e78c89665c9a",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "cbf861c1-fbd0-4366-824d-91e62dd3bf4b",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "5c380255-4703-4554-9073-270601482f1d",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pasteis",
+      "name": "PASTEIS 🌮",
+      "products": [
+        {
+          "id": "8c8ecc08-4329-4819-87f3-a8f57ba90929",
+          "name": "CARNE",
+          "description": "",
+          "price": 1600,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "0285ac57-7ed6-40e1-afed-95b97ac41172",
+          "name": "CARNE COM QUEIJO",
+          "description": "",
+          "price": 2000,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "bff2cf9f-3a98-4dbd-a75e-faa10c4882b0",
+              "name": "Adicionais",
+              "min": 0,
+              "max": 1,
+              "required": false,
+              "items": [
+                {
+                  "id": "6c03c219-4125-48ca-8a1b-3272b7990c61",
+                  "name": "Queijo",
+                  "price": 400
+                },
+                {
+                  "id": "e3d2bbfd-6482-4f33-bf13-3e34663df188",
+                  "name": "Bacon",
+                  "price": 500
+                },
+                {
+                  "id": "5c680eec-06d2-428c-9f21-01ad3eec9a70",
+                  "name": "Catupiry",
+                  "price": 400
+                },
+                {
+                  "id": "39431fdc-33ca-4346-8744-9522b03e995a",
+                  "name": "Chedar",
+                  "price": 400
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "63284556-768c-4cbf-b2a7-7141af56d0e7",
+          "name": "CARNE COM CATUPIRY",
+          "description": "",
+          "price": 2000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "c7496458-d8b1-406a-88d9-4e38b697f229",
+          "name": "FRANGO",
+          "description": "",
+          "price": 1600,
+          "oldPrice": null,
+          "image": "/images/c7496458-d8b1-406a-88d9-4e38b697f229.webp",
+          "complements": []
+        },
+        {
+          "id": "6c3d14a1-c318-4da2-8bd1-7e1f8bdf8ef6",
+          "name": "FRANGO COM QUEIJO",
+          "description": "",
+          "price": 2000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "d3584f6b-8838-46b4-b510-bf1fa5fe38d5",
+          "name": "FRANGO COM CATUPIRY",
+          "description": "",
+          "price": 2000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "9265619b-0602-4600-bd25-e3f91b3b524c",
+          "name": "QUEIJO",
+          "description": "",
+          "price": 1600,
+          "oldPrice": null,
+          "image": "/images/9265619b-0602-4600-bd25-e3f91b3b524c.webp",
+          "complements": []
+        },
+        {
+          "id": "ce814674-42ed-441a-a92d-d8de1a3fad10",
+          "name": "PRESUNTO E QUEIJO",
+          "description": "",
+          "price": 1600,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "c06a7f6e-d9e9-411c-af31-5ccfa5b70ce0",
+          "name": "CALABRESA",
+          "description": "",
+          "price": 1600,
+          "oldPrice": null,
+          "image": "/images/c06a7f6e-d9e9-411c-af31-5ccfa5b70ce0.webp",
+          "complements": []
+        },
+        {
+          "id": "68314a3f-34dc-423b-9270-ba2a42302d04",
+          "name": "CALABRESA COM QUEIJO",
+          "description": "",
+          "price": 2000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "877fdeb9-235a-492a-b137-d717baa96004",
+          "name": "CALABRESA COM CATUPIRY",
+          "description": "",
+          "price": 2000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "2186cb0d-add1-46bc-864d-fea9fc8aeaba",
+          "name": "PIZZA",
+          "description": "",
+          "price": 1600,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "4343e22c-dcc1-4224-a8cf-0a4a0978e3d1",
+          "name": "COSTELA",
+          "description": "",
+          "price": 1900,
+          "oldPrice": null,
+          "image": "/images/4343e22c-dcc1-4224-a8cf-0a4a0978e3d1.webp",
+          "complements": []
+        },
+        {
+          "id": "7276552e-5809-49e1-8417-1c85042fbe9c",
+          "name": "COSTELA COM QUEIJO",
+          "description": "",
+          "price": 2200,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "1f58b3d5-87bc-49d5-b89b-af4c43e66eee",
+          "name": "COSTELA COM CATUPIRY",
+          "description": "",
+          "price": 2200,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "bf612ae7-8122-4280-aff0-4d7fa6719761",
+          "name": "CHOCOLATE",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": "/images/bf612ae7-8122-4280-aff0-4d7fa6719761.webp",
+          "complements": []
+        },
+        {
+          "id": "8bcb775f-0603-456e-a46b-5a6e5e1a5c3c",
+          "name": "DOCE DE LEITE",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "5f27eb3f-9eee-4785-a97b-a9a852417b81",
+          "name": "HOT DOG",
+          "description": "Purê salsicha milho batata palha e queijo",
+          "price": 2500,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "b0c6350b-759f-4c48-a742-043afe820e96",
+          "name": "PERNIL",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "1ea9f5a9-024b-4423-9b83-ccdbba4a668c",
+          "name": "PERNIL COM QUEIJO",
+          "description": "",
+          "price": 2000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "a40f4c80-4f8a-44fc-ac20-e061eec876ad",
+          "name": "PERNIL COM BACON",
+          "description": "",
+          "price": 2000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "dc2d35c5-19e0-4ad6-8d47-e6716f5844e4",
+          "name": "PERNIL COM BACON E QUEIJO",
+          "description": "",
+          "price": 2200,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "42650a59-1e76-46fb-a709-ee4caa08cca8",
+          "name": "CARIOCA",
+          "description": "Carne ovo e azeitonas",
+          "price": 2300,
+          "oldPrice": null,
+          "image": "/images/42650a59-1e76-46fb-a709-ee4caa08cca8.webp",
+          "complements": []
+        },
+        {
+          "id": "41a63cab-ecbd-4db0-a85f-2d3d94493e0e",
+          "name": "GOIBADA",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "c83a9c67-57d9-461e-9506-efc0da02f81b",
+          "name": "GOIABADA E QUEIJO",
+          "description": "",
+          "price": 2100,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "d54a06cd-0f6d-478a-954b-dff94f43d294",
+          "name": "DOCE DE LEITE COM QUEIJO",
+          "description": "",
+          "price": 2100,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "52da194d-53b4-403a-8184-7ab0ace0fee1",
+          "name": "CARNE SECA",
+          "description": "",
+          "price": 1900,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "c83caaa7-a763-41dc-91d8-a7f55bb6354d",
+          "name": "carne seca com queijo ou catupiry",
+          "description": "",
+          "price": 2000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "7f48b7dc-2d63-4178-9148-689d778c07cf",
+          "name": "Brócolis",
+          "description": "",
+          "price": 1600,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "2b038902-9b75-4818-8935-6b5b999f4ccc",
+          "name": "Brócolis com queijo e bacon",
+          "description": "",
+          "price": 2500,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        }
+      ]
+    },
+    {
+      "id": "lanches-na-baguete-15-cm",
+      "name": "LANCHES NA BAGUETE (15 CM) 🥖",
+      "products": [
+        {
+          "id": "d003d0bf-910e-4029-bdef-af75c1d59a86",
+          "name": "AMERICANO",
+          "description": "Baguete - ovo - presunto e queijo",
+          "price": 2000,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "76cb1f35-cf31-4c32-98c8-043dd3191da6",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "bfe5fe01-2e1a-41fa-8a41-a9d2a250b3a6",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "1b65c731-bca7-4efc-be29-ec1ddc9e981b",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "509ddecd-76cd-4430-8e26-ac1974dfc265",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "8a2e4943-f727-4978-9c93-e79d86eae917",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "2e95c45c-b92c-4494-acb9-96978716c277",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "337ede8c-6662-4a19-bf77-8423481a1b7c",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "6c8ae6bd-b6ca-41ff-9dbc-7bd4cf940c3a",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "2555fb56-81bd-4615-9e44-c71b3c3fe93e",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "37c4287e-9fb0-4b11-8ac3-c9774682008a",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "ae9ae9af-1668-4dcc-9700-823c13fea1fb",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "b5c9c253-6482-4968-8cd1-7a078862720c",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "95f946db-a26b-4e93-9e33-f98c65a2c99a",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "32087502-cc01-47a2-a69f-78e0e4db1770",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "efabf9a1-6b55-444b-bcc0-c4fab7e4e3d4",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "9985108c-8306-4c55-8098-92cda2bde7d0",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "b7f3674f-66fa-4fac-b39f-eb8c0ee7022a",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "e3ef3879-c50c-4965-9bed-a0371eab484f",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "f9762c00-f82c-410c-ba10-f0bef5e1bf62",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "0fd9994d-1c69-4ea3-8448-0f37e4a2d3f6",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "f032dd39-ecb7-40de-9ffb-357bc210a85f",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "6e381f33-b059-4779-a3cc-9f62aacb21ff",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "ddda0f01-58be-4c1b-94a6-69de64402333",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "10122c11-f433-4da8-b2ca-6264145a748c",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "76bf4044-1c96-4429-bf3a-e7a9ab554e7f",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "40411f58-023e-43fc-a0dd-7ec89847b888",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "5a836133-528d-4c85-9152-69572ec31afc",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "60c11e40-3c5d-4778-a687-199e987dcafa",
+          "name": "CHURRASCO COMPLETO",
+          "description": "Baguete - bife de contra filé - purê de batatas - milho - bacon - cebola frita na chapa - presunto - queijo - batata palha - alface e tomate",
+          "price": 5000,
+          "oldPrice": null,
+          "image": "/images/60c11e40-3c5d-4778-a687-199e987dcafa.webp",
+          "complements": [
+            {
+              "id": "d186c169-e77e-4e5a-9740-59fda3971d8f",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "5f358476-4eec-4251-9b43-cd3f9b8af663",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "ff12a649-dcc0-4fd7-9412-f9fb6cf2a74b",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "0bb375db-388e-4082-a831-d8050b6a66dd",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "fc9a1290-f6af-4c78-86ab-17887ee2099a",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "7e4b853a-ef13-4ff3-bb88-1b2b7cb19eda",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "8d8e7fe6-e8d8-4f5e-8ca0-9a701773c8ba",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "c35fcfab-10a8-44bd-979b-7dd3b7789db1",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "5fac1cf1-cb7e-4428-88e6-ad9312bc75e6",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "3e8e1a51-b16f-4138-a9fc-3df6d7f2d10e",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "0eaec888-d108-4d1e-9ca4-4b1b69ecd61e",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "6dbb72e0-32ca-422b-a77e-57340d0aeae4",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "150b8294-8f5f-4e4a-ae1e-d39a15d93ffa",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "38703729-bc32-4e2e-9d80-dca2a0a2fad2",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "46c980fd-79dc-4f6f-a8f2-d13d4dd3da89",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "91e95503-4458-46cb-813c-be33fd44855d",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "c08f3dd9-0f62-4c45-92c3-d8720027361c",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "e35832e5-30dd-4be7-bc18-434839e11ffe",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "26d03984-5c79-40b8-9c3a-0d86022c54d5",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "0e29e107-9dbb-42bd-82f0-f9968e2bec77",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "00c67bed-5367-49e0-a9db-9defa3d40798",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "5ac4a6b7-d013-425e-a54a-17ea6cce4b93",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "b232ff33-fe77-43bc-9eb7-d9dde042d29c",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "9b973a54-2300-457e-9642-3916c69c763b",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "5a28f4a8-c54e-49c0-83e3-3fbe60597f4b",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "610ef548-0820-474c-b14a-b089aee7f877",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "0e20fe0e-2756-4f8d-a0cb-76c4aa0092d2",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "d5a10845-9942-4ee9-8d18-3f770765f190",
+          "name": "CHURRASCO SIMPLES",
+          "description": "Baguete - bife de contra filé - cebola frita na chapa - queijo - alface e tomate",
+          "price": 3900,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "3746713e-ec4d-4246-8ce4-1973e7a411cd",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "c345a060-1dd8-4a63-8bb8-24f82c9585ae",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "ccfc477f-f841-4340-ae6f-f2d7b2897fa4",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "8314bf52-fcfa-4a5d-a5a2-9a4186247016",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "4e763768-2959-4171-9b58-8eaa51c6adc9",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "911c775d-6ed3-48c2-bd6d-592d6eac3e3a",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "0e96bc57-ff33-43e1-bae2-58cc38303291",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "335f63cc-7b3e-4613-aa98-4b30381c438d",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "d292451e-5255-4d89-929c-0e3dc3215208",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "580c4443-238d-44ad-a8a0-e787cce3f499",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "06c508c8-9dee-431d-8ba1-a84a49a85fa8",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "8cc3334c-eee7-41e2-bc66-e2a31ce5e9f2",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "a44d93b3-7f7e-4eee-a6fc-afb7d1510e9f",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "c595c333-5f67-41fa-a17f-430dc5a4fac3",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "6b521b5e-e62e-460b-a73a-7951d943a8fb",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "5e116a62-4fc9-4266-82d7-3fab0a1a8b67",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "d131e131-7f12-4381-9d8c-e60d4990b570",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "789137bb-c8c6-4bef-bb87-99819a36a34f",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "92f21ca3-df4c-47cb-b1f8-1f9418e26bb1",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "ac6144cd-aa2b-4442-b847-f373e97a51d1",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "bda722a3-ec15-4c7c-b291-0a53e8659753",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "38feac46-6b6d-4d8a-ba09-d84ab45f0345",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "693f9f35-60d0-4b06-b054-b4376247ac01",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "f155d2c6-813d-47ab-9087-ed42d3a6ca85",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "b03fced2-7988-4b4a-a8a8-be0176335dc0",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "05923087-f164-4954-9683-f5b708f598c5",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "188abbfe-2d97-4424-8409-8a1321faabd3",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b8f0700b-b8d6-4f14-ab83-214e21b80eae",
+          "name": "LANCHE DE COSTELA (PÃO FRANCÊS)",
+          "description": "Baguete - costela desfiada - cebola frita na chapa - queijo - alface e tomate",
+          "price": 3300,
+          "oldPrice": null,
+          "image": "/images/b8f0700b-b8d6-4f14-ab83-214e21b80eae.webp",
+          "complements": [
+            {
+              "id": "e79b35c7-e460-43bc-b35d-bf8428db50a9",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "1fdcfc64-1516-40a6-b09c-98cb5a83cbbb",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "6a083725-b747-47dc-a192-d68f599199e5",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "15927a38-6fe0-4514-b56a-8b3266cfcba5",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "8a609113-0a2e-40f6-853c-d7cc7dd40036",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "85c25e2c-d31d-4230-8ee9-5103cd4501fd",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "09a2bfd7-8079-4467-b09e-5d4afdc0fd20",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "79c90755-40dd-43e4-9c6a-c6f49f2ce9da",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "e86a8262-665a-4f8d-886e-526569a40908",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "83325bf4-2346-4cf3-ab9c-84acbbc7889f",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "1011c099-e4e1-4475-a478-6619cfd93a8c",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "f60b2dbd-a77f-4a9c-8088-fdd027534ca9",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "370c2583-092b-47d1-8cbd-60675813e62d",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "2393c6b6-4fc2-41ca-82e2-4853a065ccd9",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "3b44790c-2849-4cc5-bc46-36c8c5db62ba",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "2ecfc0e9-2161-4ef5-82d5-878fa4d50135",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "24b645b9-a349-4340-b60c-826d01ed519a",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "7d4be814-2677-425c-8d95-d911f74441ac",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "1dd3c2ef-88c4-40b5-9e75-59ae730a2d13",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "8328301e-5d7f-4a2c-b4c3-bb586c57ef05",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "7993e92b-5e25-4722-ac24-0779bb998a5c",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "cfea32c6-b13e-40a4-ae20-5c61db9044dd",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "a242e496-721a-4e28-9f6a-34497163a60f",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "47f5e884-c3a4-4c9d-bb07-8390bc51f677",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "6f7dd80d-4c39-4029-95fd-994bcbfe6544",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "98cbfbc0-ba4e-4464-bf37-a5f53aa87ae1",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "fc04ee8c-ed6d-442b-92b7-d60a8b25b95a",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "add28208-67ea-4275-b45d-8c58a037cbf1",
+          "name": "LANCHE DE LINGUIÇA (PÃO FRANCÊS)",
+          "description": "Baguete - linguiça artesanal - cebola frita na chapa - queijo - vinagrete",
+          "price": 3300,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "f6bc22e2-8c2d-4394-8a12-2c5a8914aec7",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "5672221b-8fc8-4f44-a26e-ad840bd14b84",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "9ebc0864-c024-4965-b5ac-a0093b673910",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "0604aa17-4787-45bb-9a83-235cbc0bc9f9",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "bbb59774-385b-49dd-b53b-bf641c18d13d",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "dc5c1628-b617-4341-a265-0cf51299cd78",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "6a00379e-c6cf-43df-ae03-c501f1862cfe",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "b68dc8b0-2943-47ec-829c-d53b4c213771",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "fdeb3a32-3f27-4db9-8c68-a45fb5906302",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "980fa34c-001c-40be-a675-66e3b365fff9",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "b7b20c1f-8aed-4a97-94fb-dafdf3f8cf98",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "4bb50176-7f60-4741-a1c0-8fa570331134",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "04d5d287-49f0-4635-816b-e65a83c01a58",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "24a8bd14-b0f0-4d49-901f-7db99691c704",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "1070d2d8-5cee-4dd0-b862-df33ef557686",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "9244846d-6ba2-4aa1-abeb-1f0ad07f1ccd",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "f56221bf-c1a5-44c8-883b-c6e6aaf34e96",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "9c96f882-b7ef-4ce6-80ce-5a3bb9d9143b",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "4329c9b4-8c12-4a63-905f-0abde950ff22",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "1549e9ac-9c5d-41f7-84d1-f8c09f1ef6de",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "5662101e-f006-4133-8cac-f494b28ed85d",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "aa2c24f2-5306-4045-84ff-65ac8338aa68",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "b456e617-c704-412c-a6d8-4483bef90023",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "3a73348b-9c26-4cc4-a952-3605019a964d",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "c6a4b20b-d8d6-4fa9-aba7-cb0c5032b636",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "aa82ce0e-3ee5-4f18-b206-412ae7d2056a",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "2e4885b0-5118-4870-9f81-bf7fbdd9334e",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b9f1afcb-916f-4fbd-bf0f-407c4a80d096",
+          "name": "LANCHE DE PERNIL (PÃO FRANCÊS)",
+          "description": "Baguete - Pernil desfiado - cebola frita na chapa - bacon calabresa - queijo - alface e tomate",
+          "price": 3700,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "512bfb69-0841-4568-ad22-79893a42b806",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "8726619b-5ebc-4cb3-8e78-30a915395a33",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "bcf1e8c2-831d-479f-86fd-1ce693d5fdde",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "242dd9f3-f54c-4a4d-b1e9-5e368ab99b0a",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "28163acb-26cf-4d41-baaa-a93fe775563e",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "79cc32f7-4a3a-415f-98e3-7ff3ecb5bf70",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": false,
+              "items": [
+                {
+                  "id": "f6a9ff72-ab8b-478e-bea7-88924a0b1739",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "7796def3-c838-4725-b7c7-5c35f60f409a",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "06dac739-49d2-4e99-89dc-b372720c89e1",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "e15680b5-e388-4068-856d-406fa0e6312b",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "fe8670ef-e6b2-4644-973f-b864a8f3decd",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "6fc177db-04a7-4693-bb26-f3aca8d5b4ab",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "d6f40ffd-9cba-4518-afa0-5683b2c39d1e",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "139bf8eb-49ca-4e24-b8cc-b9a92c7b3658",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "8ec3a4a3-fa4e-4e08-a8c7-1fea2881032f",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "91d75d04-7396-4655-a312-b31a0d446939",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "205a4766-1b97-49f4-8352-5b647abc544c",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "9ed64305-ae51-4f8a-903d-41c4e209fd69",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "efc75a7a-e2df-4750-9f71-f0930c2f051a",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "14d1146b-42fa-4f15-953f-0c1b935d8a7c",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "6470e7fc-1051-46db-bf6b-e735d0c662f1",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "b12d1f69-1cb4-4ee8-b81f-54097bff5385",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "cbdfe689-a9ff-42cf-ad93-a46f4d2c6752",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "5b909d84-87ae-4990-8fcb-88ff9d1a8656",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "37402ca1-4000-41b4-bcb0-9bfecf57ca74",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "bf61a78e-9461-4c5f-8179-3eb4175d3460",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "191f09ed-70ce-4741-b471-649370e6a8f4",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "da350996-9b14-4ee9-b5e9-39128fa90b09",
+          "name": "CARNE SECA",
+          "description": "Baguete, carne seca, cebola frita, queijo, alface, tomate e molho da sua preferência.",
+          "price": 3500,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "e3b68a32-cb81-42c0-a7bf-e80180f3f0ab",
+              "name": "MOLHOS CASEIROS",
+              "min": 1,
+              "max": 1,
+              "required": true,
+              "items": [
+                {
+                  "id": "86501753-e905-499a-bee3-5ef929ef7ff5",
+                  "name": "PATE DE ALHO",
+                  "price": 0
+                },
+                {
+                  "id": "bb43bf32-8019-415c-98e4-98d4eabd9d8f",
+                  "name": "BARBECUE",
+                  "price": 0
+                },
+                {
+                  "id": "a79f1829-36bf-410d-aed1-3d863e485669",
+                  "name": "PICLES COM CENOURA E AZEITONA",
+                  "price": 0
+                },
+                {
+                  "id": "9fa420a6-348d-47a9-99fc-852f24f56a65",
+                  "name": "SEM MOLHO",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "98c31abb-4973-46f0-9099-70ddb04687c2",
+              "name": "MOLHOS TRADICIONAIS",
+              "min": 1,
+              "max": 3,
+              "required": true,
+              "items": [
+                {
+                  "id": "1d5f2206-0bac-42ab-bf95-df589526a554",
+                  "name": "MAIONESE",
+                  "price": 0
+                },
+                {
+                  "id": "1a53f31a-fe7a-408c-a6d0-bd55ab0dde52",
+                  "name": "KETCHUP",
+                  "price": 0
+                },
+                {
+                  "id": "35af6ae6-b657-45a3-abc0-e68dfc761f52",
+                  "name": "MOSTARDA",
+                  "price": 0
+                }
+              ]
+            },
+            {
+              "id": "6e5eb197-4ad5-43f1-80c1-267f9ecbcdfa",
+              "name": "ADICIONAIS",
+              "min": 1,
+              "max": 16,
+              "required": false,
+              "items": [
+                {
+                  "id": "97e07919-7a8c-4ff6-9077-bba8dd9fdb48",
+                  "name": "BATAT PALHA",
+                  "price": 200
+                },
+                {
+                  "id": "0b1587fa-9cd8-4031-b3a9-0cfb6dffda05",
+                  "name": "MILHO",
+                  "price": 200
+                },
+                {
+                  "id": "fe182d21-389d-4aec-8987-3a9c3392d76c",
+                  "name": "AZEITONAS",
+                  "price": 300
+                },
+                {
+                  "id": "999f4dd0-1768-465a-b0a0-6a6cb8bb1704",
+                  "name": "OVO",
+                  "price": 300
+                },
+                {
+                  "id": "3c315025-8145-4601-b23f-b4fdccc941bf",
+                  "name": "SALSICHA",
+                  "price": 300
+                },
+                {
+                  "id": "bbf0c95a-c097-4b0d-afcd-5943c2e729ed",
+                  "name": "ALFACE E TOMATE",
+                  "price": 300
+                },
+                {
+                  "id": "8cc8bcef-092b-4c5c-a284-0778d52a6e1c",
+                  "name": "BACON",
+                  "price": 500
+                },
+                {
+                  "id": "df365bd1-d832-4fd2-872a-5ce32be8d7fc",
+                  "name": "CALABRESA",
+                  "price": 400
+                },
+                {
+                  "id": "cd8ff8d0-07e2-4f99-962a-a3239be5a1f9",
+                  "name": "CHEDDAR",
+                  "price": 400
+                },
+                {
+                  "id": "c3c43352-a9b5-4284-a4c3-987ea11ca807",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "d8f4bb02-87fd-48c5-9ccb-3a816cf5089c",
+                  "name": "CATUPIRY",
+                  "price": 400
+                },
+                {
+                  "id": "796b60f2-b425-4d38-aa3e-04dabd65df1d",
+                  "name": "CEBOLA FRITA",
+                  "price": 300
+                },
+                {
+                  "id": "bc868bc8-4eda-4ad8-b957-0c4a1d4c8da6",
+                  "name": "QUEIJO",
+                  "price": 400
+                },
+                {
+                  "id": "bdf5ee31-b8be-41a5-a947-dc587d750a66",
+                  "name": "PRESUNTO",
+                  "price": 300
+                },
+                {
+                  "id": "aae52d33-7b48-4d82-babf-818370bf23c8",
+                  "name": "PURE DE BATATAQ",
+                  "price": 400
+                },
+                {
+                  "id": "59ce08f1-d66e-4700-847b-30d5cb352944",
+                  "name": "VINAGRETE",
+                  "price": 300
+                },
+                {
+                  "id": "62e23ff3-48e5-48b2-a82f-13b9b9597148",
+                  "name": "HAMBURGUER",
+                  "price": 1200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pores",
+      "name": "PORÇÕES 🧆",
+      "products": [
+        {
+          "id": "5181b952-0fb1-449f-921c-d4c34aafa9e6",
+          "name": "BATATA FRITA",
+          "description": "",
+          "price": 3200,
+          "oldPrice": null,
+          "image": null,
+          "complements": [
+            {
+              "id": "f543074a-b260-4daa-b1bb-3aadcd8b8324",
+              "name": "Adicionais",
+              "min": 0,
+              "max": 1,
+              "required": false,
+              "items": [
+                {
+                  "id": "a4346f0a-82dc-47d0-b3fa-6ef6b30b8c10",
+                  "name": "Chedar",
+                  "price": 500
+                },
+                {
+                  "id": "5f443351-1c8e-4bd5-85b6-3789388c744c",
+                  "name": "Bacon",
+                  "price": 500
+                },
+                {
+                  "id": "19baa60f-f6e8-4ec4-834f-d5792d0c43b5",
+                  "name": "Queijo",
+                  "price": 500
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ead44beb-19e3-4f8a-ba21-fd123027c50d",
+          "name": "BATATA COM QUEIJO",
+          "description": "",
+          "price": 3700,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "3b6256d1-e364-43b1-af3b-4339a07ee6f6",
+          "name": "BATATA FRITA COM CHEDDAR",
+          "description": "",
+          "price": 3700,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "8b4d6ac2-f981-486a-b6fa-7ee5088e2d59",
+          "name": "BATATA FRITA COM BACON",
+          "description": "",
+          "price": 3700,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "408c0d33-0221-4016-bbdf-9971642e96a5",
+          "name": "BATATA COM CHEDDAR E BACON",
+          "description": "",
+          "price": 4200,
+          "oldPrice": null,
+          "image": "/images/408c0d33-0221-4016-bbdf-9971642e96a5.webp",
+          "complements": []
+        },
+        {
+          "id": "63ec41b1-4718-472b-82d6-06dcf7724b57",
+          "name": "POLENTA FRITA 500 gramas",
+          "description": "",
+          "price": 3200,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "bc5740d3-84b8-4857-aedf-e901bddde9f6",
+          "name": "BOLINHOS DE MANDIOCA",
+          "description": "500 gramas",
+          "price": 3200,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        }
+      ]
+    },
+    {
+      "id": "bebidas",
+      "name": "BEBIDAS 🥃",
+      "products": [
+        {
+          "id": "d64a3c00-f9e3-4d21-a64f-b07ae02edb9c",
+          "name": "Laranja 500 ML",
+          "description": "",
+          "price": 1000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "98d5eb9b-b83c-4df3-b18d-b4fcd3afd1f6",
+          "name": "COCA COLA 2 LITROS",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "bbd5014b-c0fd-4e9e-afe3-4de62ef5552d",
+          "name": "ABACAXI COM HORTELÃ 500 ML",
+          "description": "",
+          "price": 1000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "d043b5c7-c7f3-41c5-b2fe-b54705de0922",
+          "name": "COCA COLA 350ML",
+          "description": "",
+          "price": 800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "8c2f14d8-4915-42e8-b10a-77dec8131f30",
+          "name": "COCA COLA ZERO 2 LITROS",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "9db069ab-7b41-40a7-891b-35b1482a35e6",
+          "name": "COCA COLA 1 LITRO",
+          "description": "",
+          "price": 1300,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "ff868891-d8f6-4dc7-a8b9-bf2473216615",
+          "name": "COCA COLA 600ML",
+          "description": "",
+          "price": 1000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "08d1903f-ddcf-4796-9bc1-a87c453f3553",
+          "name": "COCA COLA ZERO LATA 350ML",
+          "description": "",
+          "price": 800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "db0e3dd3-fa00-4435-b804-b981c2129cbb",
+          "name": "FANTA LARANJA 2 LITROS",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "44679872-cf06-43c1-8d2c-d00e620daac0",
+          "name": "FANTA LARANJA 350ML",
+          "description": "",
+          "price": 800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "7d4300ee-bc71-4fa2-89e5-0e1ba1dd83c3",
+          "name": "FANTA LARANJA 600ML",
+          "description": "",
+          "price": 1000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "bed02f74-bd2b-47e7-927b-5ed067fcd2c3",
+          "name": "FANTA UVA 2 LITROS",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "4537ab76-dde0-49e4-9288-1278919db641",
+          "name": "FANTA UVA 350ML",
+          "description": "",
+          "price": 800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "0549b4f9-3f0c-463f-b5d7-d2d1552aa737",
+          "name": "FANTA UVA 600 ML",
+          "description": "",
+          "price": 1000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "0270fc50-16a0-4235-8b37-ca272d76e75d",
+          "name": "GUARANA ANTARTICA 2 LITROS",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "b08aee37-27da-47af-b621-36b06aaca43f",
+          "name": "GUARANA ANTARTICA 1 LITROS",
+          "description": "",
+          "price": 1300,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "9f169b42-3068-4ee9-aa74-9f7e84c84cc4",
+          "name": "GUARANA ANTARTICA 600 ML",
+          "description": "",
+          "price": 1000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "8600e524-bc47-416c-8e56-a8d9b963b904",
+          "name": "GUARANA ANTARTICA LATA 350 ML",
+          "description": "",
+          "price": 800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "e53e4d84-d960-47b8-8a35-ee3123864190",
+          "name": "PEPSI 2 LITROS",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "c455d609-3706-4480-861c-2d5147e048fc",
+          "name": "PEPSI 1 LITRO",
+          "description": "",
+          "price": 1300,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "ea188df4-b4c0-42ae-9dda-6727b55b6051",
+          "name": "PEPSI LATA 350ML",
+          "description": "",
+          "price": 800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "c742c683-f089-4867-9dc7-1acae7845f65",
+          "name": "SPRITE 2 LITROS",
+          "description": "",
+          "price": 1800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "c4c84ecd-977b-4d52-b7a9-e4604781a064",
+          "name": "SPRITE LATA 350ML",
+          "description": "",
+          "price": 800,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "91e99942-6c29-4acd-a204-caf01d3d2e2d",
+          "name": "SPRITE LATA 600 ML",
+          "description": "",
+          "price": 1000,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "44ff1310-285f-4060-beaf-aaafd044c965",
+          "name": "SUKITA1 LITRO",
+          "description": "",
+          "price": 1300,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "3e2bc0bb-e75e-481d-8ce8-3e7c18a18a8f",
+          "name": "BIOLEVE 500ML",
+          "description": "Sabores: CITRUS / MAÇÃ VERDE e MEXERICA",
+          "price": 700,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "15eb459d-c7d4-45e5-b157-0c7db3151ec6",
+          "name": "CERVEJA LATA SKOL",
+          "description": "",
+          "price": 700,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "b156ff59-928c-48d1-86f4-8c3d53e15ef7",
+          "name": "CERVEJA LATA ITAIPAVA",
+          "description": "",
+          "price": 600,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "5383f476-7906-4f6c-b48e-cae318ec15aa",
+          "name": "CERVEJA LATA BHAMA",
+          "description": "",
+          "price": 700,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "797099d9-b86a-4f2e-ab94-5750eb700247",
+          "name": "LONGNEK BUDWEISER",
+          "description": "",
+          "price": 1200,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "bb523ed0-c9cf-4afd-83b1-a83eaeb88e9a",
+          "name": "LONGNEK HIENEKEN",
+          "description": "",
+          "price": 1200,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        }
+      ]
+    },
+    {
+      "id": "combos",
+      "name": "Combos",
+      "products": [
+        {
+          "id": "168983d0-7d63-465c-a70e-c143ae48ac06",
+          "name": "COMBO 1",
+          "description": "1 X burguer + 1/2 porção de fritas + 1 Refrigerante lata",
+          "price": 4500,
+          "oldPrice": null,
+          "image": "/images/168983d0-7d63-465c-a70e-c143ae48ac06.webp",
+          "complements": []
+        },
+        {
+          "id": "364b27cd-e6da-4b9f-b114-69172894a99e",
+          "name": "COMBO 2",
+          "description": "2 Dogs 1 + 1 refrigerante 600 ML + 1/2 porção de fritas",
+          "price": 5900,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        }
+      ]
+    },
+    {
+      "id": "lanches-com-blend-s",
+      "name": "Lanches com Blend'S",
+      "products": [
+        {
+          "id": "54fe6b31-94ba-4a9b-a8f6-b740bc020054",
+          "name": "CAND BLEND DA CASA",
+          "description": "Pão,  Hamburguer artesanal de 180 gramas feito de carnes nobres, cheddar cremoso, cebola caramelizada, picles de pepino agridoce, bacon crocante e molho artesanal da casa.",
+          "price": 4500,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "25fa4792-e52a-45c3-bbe8-cec20bcfc169",
+          "name": "CAND BLEND 3 QUEIJOS",
+          "description": "Pão, Hamburguer artesanal de 180 gramas, cheddar\nCatupiry, muçarela, geleia de pimenta e Pepino agridoce.",
+          "price": 4500,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        },
+        {
+          "id": "1981cead-486f-4f31-a34c-44130e39ade5",
+          "name": "CAND BLEND AUSTRALIANO",
+          "description": "Pão australiano, um blend de 180 gramas, cheddar cremoso, bacon crocante e molho artesanal da casa.",
+          "price": 4200,
+          "oldPrice": null,
+          "image": null,
+          "complements": []
+        }
+      ]
+    }
+  ]
+}
